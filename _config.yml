@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#000000'
+    - '#684810'
+    - '#000000'
+    - '#F8C848'
+    - '#000000'
+  brandStrength: 0.2468637081408318
+  lightness: 0.18041897222576586
+  rhythmicContrast: 0.7409030588808664
+  saturation: 0.21623397588711402
+cta: {}
+layout_spectrum: 0.9331121954365696
+name: Immortal Body
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.3646510986565742
