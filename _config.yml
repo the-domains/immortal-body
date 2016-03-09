@@ -6,12 +6,12 @@ color:
     - '#000000'
     - '#F8C848'
     - '#000000'
-  brandStrength: 0.2468637081408318
-  lightness: 0.18041897222576586
-  rhythmicContrast: 0.7409030588808664
-  saturation: 0.21623397588711402
+  brandStrength: 0.552364
+  lightness: 0.755067
+  rhythmicContrast: 0.829391
+  saturation: 0.462837
 cta: {}
-layout_spectrum: 0.385135
+layout_spectrum: 1
 name: Immortal Body
 opengraph: {}
 purpose: {}
