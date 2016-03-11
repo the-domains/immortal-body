@@ -1,20 +1,4 @@
-name: Immortal Body
-favicon: null
-layout_spectrum: 0.68497
-typography_spectrum: 0.44793
-title: unlock genetic potential
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
@@ -24,9 +8,12 @@ color:
     - '#000000'
   brandStrength: 0.25
   lightness: 0.755067
-  saturation: 0.462837
   rhythmicContrast: 0.829391
+  saturation: 0.462837
+cta: {}
+layout_spectrum: 0.68497
+name: Immortal Body
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.44793
