@@ -1,6 +1,6 @@
 name: Immortal Body
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.68497
 typography_spectrum: 0.3646510986565742
 title: limitless lifestyle
 cta:
@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#F8C848'
     - '#000000'
-  brandStrength: 0.552364
+  brandStrength: 0.25
   lightness: 0.755067
   saturation: 0.462837
   rhythmicContrast: 0.829391
