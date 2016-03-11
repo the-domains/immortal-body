@@ -1,19 +1,19 @@
 analytics: {}
 color:
   brandColors:
-    - '#000000'
-    - '#684810'
-    - '#000000'
-    - '#F8C848'
-    - '#000000'
+    - '#A0B8D0'
+    - '#205880'
+    - '#6888B0'
+    - '#4078C8'
+    - '#98B8D8'
   brandStrength: 0.25
   lightness: 0.755067
   rhythmicContrast: 0.829391
   saturation: 0.462837
 cta: {}
-layout_spectrum: 0.68497
-name: Immortal Body
+layout_spectrum: 1
+name: NaturezBoi
 opengraph: {}
 purpose:
   - {}
-typography_spectrum: 0.44793
+typography_spectrum: 0.304054
