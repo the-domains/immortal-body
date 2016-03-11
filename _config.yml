@@ -1,4 +1,20 @@
-analytics: {}
+name: Immortal Body
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.3646510986565742
+title: limitless lifestyle
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -8,11 +24,9 @@ color:
     - '#000000'
   brandStrength: 0.552364
   lightness: 0.755067
-  rhythmicContrast: 0.829391
   saturation: 0.462837
-cta: {}
-layout_spectrum: 1
-name: Immortal Body
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.3646510986565742
+  rhythmicContrast: 0.829391
+purpose:
+  - name: null
+    item: null
+    url: null
