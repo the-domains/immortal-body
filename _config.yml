@@ -6,14 +6,14 @@ color:
     - '#6888B0'
     - '#4078C8'
     - '#98B8D8'
-  brandStrength: 0.25
+  brandStrength: 0.660473
   lightness: 0.755067
   rhythmicContrast: 0.829391
-  saturation: 0.462837
+  saturation: 0.733108
 cta: {}
-layout_spectrum: 0.244932
+layout_spectrum: 0.817567
 name: NaturezBoi
 opengraph: {}
 purpose:
   - {}
-typography_spectrum: 0.304054
+typography_spectrum: 0.809121
