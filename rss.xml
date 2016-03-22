@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NaturezBoi]]></title>
+        <description><![CDATA[NaturezBoi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 00:15:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://earthshiftproducts.com/Images/Fallintohealth.jpg">]]></description>
+            <link>undefinedd776a8a8-e2b5-45a3-a728-95783a214ecf/index.html</link>
+            <guid isPermaLink="false">d776a8a8-e2b5-45a3-a728-95783a214ecf</guid>
+            <pubDate>Tue, 22 Mar 2016 00:15:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
