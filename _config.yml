@@ -1,4 +1,19 @@
-analytics: {}
+name: NaturezBoi
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.60316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#A0B8D0'
@@ -8,12 +23,9 @@ color:
     - '#98B8D8'
   brandStrength: 0.660473
   lightness: 0.755067
-  rhythmicContrast: 0.829391
   saturation: 0.733108
-cta: {}
-layout_spectrum: 0.817567
-name: NaturezBoi
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose:
-  - {}
-typography_spectrum: 0.809121
+  - name: null
+    item: null
+    url: null
