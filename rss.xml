@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[NaturezBoi]]></title>
         <description><![CDATA[NaturezBoi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/immortal-body/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 00:15:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 00:23:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/immortal-body/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.naturalnews.com/specialreports/25-Amazing-and-Disturbing-Facts-Hidden-History-150.jpg">]]></description>
+            <link>https://thegrid.ai/immortal-body/a5d64c40-b163-4d1c-b02b-2d5679fcc6dc/index.html</link>
+            <guid isPermaLink="false">a5d64c40-b163-4d1c-b02b-2d5679fcc6dc</guid>
+            <pubDate>Tue, 22 Mar 2016 00:23:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://earthshiftproducts.com/Images/Fallintohealth.jpg">]]></description>
-            <link>undefinedd776a8a8-e2b5-45a3-a728-95783a214ecf/index.html</link>
+            <link>https://thegrid.ai/immortal-body/d776a8a8-e2b5-45a3-a728-95783a214ecf/index.html</link>
             <guid isPermaLink="false">d776a8a8-e2b5-45a3-a728-95783a214ecf</guid>
             <pubDate>Tue, 22 Mar 2016 00:15:17 GMT</pubDate>
         </item>
